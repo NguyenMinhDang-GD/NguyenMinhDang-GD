@@ -1,6 +1,5 @@
 # Hi there, I'm Nguyen Minh Dang 👋
 
-🌐 **Website:** [My personal website](https://nguyenminhdang.id.vn/)
 🎓 **Junior Software Engineering Student** at Ton Duc Thang University  
 🎮 Aspiring **Game Designer & Technical Designer**, passionate about crafting immersive player experiences, core gameplay loops, and dynamic game systems
 
@@ -33,3 +32,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dang-nguyen-minh-953812439/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/kamera-gd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[work.nguyenminhdang@gmail.com])
+[![MyWebsite](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nguyenminhdang.id.vn/)
