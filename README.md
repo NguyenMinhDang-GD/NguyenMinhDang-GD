@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen Minh Dang 👋
 
 🎓 **Junior Software Engineering Student** at Ton Duc Thang University  
-🎮 Aspiring **Game Designer & Technical Designer**, passionate about crafting immersive player experiences, core gameplay loops, and dynamic game systems
+🎮 Aspiring **Game Designer & Technical Designer**, passionate about crafting immersive player experiences, core gameplay loops, and dynamic game systems··
 🌐 **Website:** [My personal website](https://nguyenminhdang.id.vn/)
 
 ---
@@ -26,14 +26,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-
-- **[flappy bird clone](https://github.com/NguyenMinhDang-GD/flappy-Bird-Clone)** (`Unity`, `C#`) — Game Clone flappy bird.
-
 
 ---
 
