@@ -2,7 +2,7 @@
 
 🎓 **Junior Software Engineering Student** at Ton Duc Thang University  
 🎮 Aspiring **Game Designer & Technical Designer**, passionate about crafting immersive player experiences, core gameplay loops, and dynamic game systems.
-🌐 **Website:** [yourwebsite.com](https://nguyenminhdang.id.vn/)
+🌐 **Website:** [My personal website](https://nguyenminhdang.id.vn/)
 
 ---
 
@@ -32,7 +32,7 @@
 ### 📌 Featured Projects
 
 
-| **[https://github.com/NguyenMinhDang-GD/flappy-Bird-Clone]** | 2D Action Platformer / Solo Dev | Unity, C#, Figma | Designed level progression, player controller, and responsive HUD. |
+- **[flappy bird clone]([https://link-itch-io-hoac-github](https://github.com/NguyenMinhDang-GD/flappy-Bird-Clone))** (`Unity`, `C#`) — Game Clone flappy bird.
 
 
 ---
