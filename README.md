@@ -29,10 +29,10 @@
 
 ---
 
-### Featured Projects
+### 📌 Featured Projects
 
-| :--- | :--- | :--- | :--- |
-| **[Project Title 1]** | 2D Action Platformer / Solo Dev | Unity, C#, Figma | Designed level progression, player controller, and responsive HUD. |
+
+| **[https://github.com/NguyenMinhDang-GD/flappy-Bird-Clone]** | 2D Action Platformer / Solo Dev | Unity, C#, Figma | Designed level progression, player controller, and responsive HUD. |
 
 
 ---
